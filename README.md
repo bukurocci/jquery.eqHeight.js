@@ -10,7 +10,7 @@ and call the method for equalizing their height
 $('.example').eqHeight();
 ```
 
-* [examples](http://www.logns.org/jquery.eqHeight.js/example/)
+* [examples](http://bukurocci.github.io/jquery.eqHeight.js/example/)
 
 ## Option
 You can also apply height equalization to each groups.  
