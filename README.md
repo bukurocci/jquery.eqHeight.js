@@ -13,7 +13,7 @@ $('.example').eqHeight();
 * [examples](http://bukurocci.github.io/jquery.eqHeight.js/example/)
 
 ## Option
-You can also apply height equalization to each groups.  
+You can also apply height equalization to each group.  
 if `group` is specified,  they are split into groups of N（N is a specified number）
 
 ```js
