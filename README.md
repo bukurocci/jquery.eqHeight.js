@@ -1,6 +1,6 @@
 # jquery.eqheight.js
 
-A jQuery plugin that equalize the height of elements
+A simple jQuery plugin that equalize the height of elements
 
 ## Usage
 Specify the parent element of the elements which you would like to equalize the height,
