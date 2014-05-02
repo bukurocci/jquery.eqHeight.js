@@ -22,7 +22,7 @@ $('.example').eqHeight({
 });
 ```
 
-### Methods
+## Methods
 ```js
 $('.example').eqHeight('refresh', options);
 ```
