@@ -1,4 +1,10 @@
-
+/*!
+ *	jquery.eqHeight.js
+ *
+ *	License: MIT License
+ *
+ *	https://github.com/bukurocci/jquery.eqHeight.js
+ */
 
 ;(function($, window, undefined) {
 
