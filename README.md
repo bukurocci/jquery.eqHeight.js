@@ -10,8 +10,10 @@ and call the method for equalizing their height
 $('.example').eqHeight();
 ```
 
+* [examples](http://www.logns.org/jquery.eqHeight.js/example/)
+
 ## Option
-You can also apply height equalization to each groups.
+You can also apply height equalization to each groups.  
 if `group` is specified,  they are split into groups of N（N is a specified number）
 
 ```js
@@ -24,8 +26,8 @@ $('.example').eqHeight({
 ```js
 $('.example').eqHeight('refresh', options);
 ```
-Invoke `refresh` method to restore their height and re-equalize them.
-refresh method can takes an `options` argument.
+Invoke `refresh` method to restore their height and re-equalize them.  
+`refresh` method can takes an `options` argument.
 
 
 ```js
