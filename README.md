@@ -25,7 +25,7 @@ $('.example').eqHeight({
 $('.example').eqHeight('refresh', options);
 ```
 Invoke `refresh` method to restore their height and re-equalize them.
-refresh method can takes an options argument.
+refresh method can takes an `options` argument.
 
 
 ```js
