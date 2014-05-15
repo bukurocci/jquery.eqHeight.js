@@ -3,8 +3,7 @@
 A simple jQuery plugin that equalize the height of elements
 
 ## Usage
-Specify the parent element of the elements which you would like to equalize the height,
-and call the method for equalizing their height
+Specify the parent element of the elements which you would like to equalize the height.
 
 ```js
 $('.example').eqHeight();
