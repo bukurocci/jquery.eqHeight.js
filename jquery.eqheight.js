@@ -34,8 +34,6 @@
 			var group = options.group;
 			var numRows;
 
-			console.log($children)
-
 			if(group === 0) {
 
 				equalizeHeight($children);
